@@ -2,7 +2,7 @@
 
 A Trust &amp; Safety **review queue** for user-generated content — flag, review, act, and keep an **audit log** — with **role-based access** enforced at the database via Supabase Row-Level Security.
 
-**Live demo:** _deploying to Vercel_
+**Live demo:** https://moderation-dashboard-one.vercel.app (demo logins shown on the sign-in page)
 **Full write-up:** [EXPLAINER.md](./EXPLAINER.md)
 
 ## What it is (short version)

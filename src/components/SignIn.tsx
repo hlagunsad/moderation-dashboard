@@ -52,9 +52,15 @@ export default function SignIn() {
         </form>
 
         <div className="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-3 text-xs text-slate-500">
-          <p className="font-medium text-slate-600">Demo accounts</p>
-          <p className="mt-0.5">admin@demo.test — full access (incl. ban)</p>
-          <p>mod@demo.test — can act, can&rsquo;t ban</p>
+          <p className="font-medium text-slate-600">Demo logins — try it</p>
+          <p className="mt-1">
+            <span className="font-mono text-slate-700">admin@demo.test</span> / <span className="font-mono text-slate-700">lolom0panot123</span>
+            <span className="text-slate-400"> — full access (incl. ban)</span>
+          </p>
+          <p className="mt-0.5">
+            <span className="font-mono text-slate-700">mod@demo.test</span> / <span className="font-mono text-slate-700">lolom0panot098</span>
+            <span className="text-slate-400"> — can act, can&rsquo;t ban</span>
+          </p>
         </div>
       </div>
     </div>
